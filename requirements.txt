@@ -1,0 +1,7 @@
+databases[aiosqlite]
+SQLAlchemy==1.4.41
+quart-schema
+quart[dotenv]
+click
+markupsafe
+Jinja2
